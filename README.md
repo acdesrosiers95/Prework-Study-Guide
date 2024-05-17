@@ -2,13 +2,10 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 - Further my career and learn a new skill in a rapidly expanding field.
 - Consturcted the project to assist myself and fellow students in learning how to code.
 - Quick reference to look back to instead of having to skim through slides.
 - Learned the Building blocks to HTML, CSS, Git, and JavaScript.
-
 
 ## Installation
 
