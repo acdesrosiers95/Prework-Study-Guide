@@ -1,4 +1,4 @@
-# <Aaron's Prework Study Guide Webpage>
+# Aaron's Prework Study Guide Webpage
 
 ## Description
 
